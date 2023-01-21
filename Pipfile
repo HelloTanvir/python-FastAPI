@@ -9,6 +9,7 @@ uvicorn = "*"
 flake8 = "*"
 black = "*"
 python-dotenv = "*"
+python-multipart = "*"
 
 [dev-packages]
 mypy = "*"
